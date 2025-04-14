@@ -65,8 +65,7 @@ Se preferir, use o Maven ou Gradle (em breve no projeto).
 
 | Estrutura                | Status      | Descrição                                       |
 |--------------------------|-------------|-------------------------------------------------|
-| Arrays                   | 🚧 Em breve  | Vetores fixos, acesso e iteração                |
-| Listas Ligadas           | 🚧 Em breve  | Simples, duplamente e circularmente ligadas     |
+| Listas Encadeadas           | 🚧 Em breve  | Simples, duplamente e circularmente ligadas     |
 | Pilhas (Stacks)          | 🚧 Em breve  | Vetor e lista ligada                            |
 | Filas (Queues)           | 🚧 Em breve  | Simples e circular                              |
 | Árvores Binárias         | 🚧 Em breve  | Busca, inserção, remoção, travessias            |
